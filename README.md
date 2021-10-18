@@ -16,7 +16,7 @@
 <a href="https://twitter.com/marcelo_garbin" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 <a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
-<a href="https://www.buymeacoffee.com/garbinmarcelo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+<a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
 
 
