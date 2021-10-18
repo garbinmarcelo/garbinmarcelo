@@ -2,14 +2,13 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, Laravel, Vue.js and all the technology behind it...</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Inertia.js with Laravel 8 / Nuxt / Tailwind CSS) <img style="width:16rem; height:auto; float: right;margin-right: 20px;" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" alt="garbinmarcelo"/></li>
+<li>:seedling: I'm in constant learning (currently Inertia.js with Laravel 8 / Nuxt / Tailwind CSS)</li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations</strong></li>
 <li>:brazil: From Rio Grande do Sul, Rodeio Bonito, Brazil</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:metal: Let's Rock n' Roll and Code, baby.</li>
 </ul>
-<br/><br/>
-<div style="text-align: center;">
+<div align="center">
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
@@ -23,7 +22,7 @@
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
 
 <h3>Back-end & Front-end</h3>
@@ -101,7 +100,7 @@
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
@@ -111,7 +110,7 @@
 </div>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=garbinmarcelo&style=flat-square)
 
