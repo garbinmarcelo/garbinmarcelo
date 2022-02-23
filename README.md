@@ -2,7 +2,7 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, Laravel, Vue.js and all the technology behind it...</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Inertia.js with Laravel 8 / Nuxt / Tailwind CSS)</li>
+<li>:seedling: I'm in constant learning (currently Inertia.js with Laravel / Nuxt / Tailwind CSS)</li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations</strong></li>
 <li>:brazil: From Rio Grande do Sul, Rodeio Bonito, Brazil</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
