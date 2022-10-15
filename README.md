@@ -8,6 +8,7 @@
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:metal: Let's Rock n' Roll and Code, baby.</li>
 </ul>
+
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
@@ -19,6 +20,9 @@
 <a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
 
+<div align="center">
+<a href="https://app.daily.dev/garbinmarcelo" target="_blank"><img src="https://api.daily.dev/devcards/5fb25a3a21024052b3f62f5e40ba3366.png?r=i1b" width="200" alt="Marcelo Garbin's Dev Card"/></a>
+</div>
 
 ---
 
